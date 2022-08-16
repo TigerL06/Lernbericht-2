@@ -1,9 +1,11 @@
 # Lernbericht
 
 ##Einleitung
+
 Ich habe in diesem Projekt gelernt wie man Schach spielt.
 
 ##Was habe ich in diesem Projekt gelernt?
+
 Ich habe gelernt wie man mit der Dame umgeht und sie gut einsetzt.
 
 ##Beschreibung
@@ -18,4 +20,5 @@ Ich habe mich mit der Dame im Schach auseinander gesetzt. Ich versuchte die Dame
 |2|4c||
 
 ##Verifikation
+
 Der Text erklärt 
