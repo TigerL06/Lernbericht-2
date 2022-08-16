@@ -29,6 +29,6 @@ Der Text erklärt wie ich auf diese Eröffnung gekommen bin. Das Bild zeigt mein
 
 👎Ich habe nicht regelmassig Schachgespielt, dass heisst das ich somit nur langsam Vortschritte machte. 
 
-## VBV
+# VBV
 
 Beim nächsten Projekt werde jeden Tag etwas daran arbeiten, damit ich schnell besser werde oder schnell Vorschritte erziehle.
