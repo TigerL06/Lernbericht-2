@@ -21,4 +21,14 @@ Ich habe mich mit der Dame im Schach auseinander gesetzt. Ich versuchte die Dame
 
 ##Verifikation
 
-Der Text erklärt 
+Der Text erklärt wie ich auf diese Eröffnung gekommen bin. Das Bild zeigt meine jetztige standart Schacheröffnunszüge und in der Tabele sind die Züge der reihe nach aufgezählt.
+
+##Reflektion zum Arbeitsprozess
+
+👍 Ich habe immer alle Partien als Übung gesehen und bin somit nach einer Niederlage oder eine missglückten Versuch nicht unmotiviert gewesen.
+
+👎Ich habe nicht regelmassig Schachgespielt, dass heisst das ich somit nur langsam Vortschritte machte. 
+
+##VBV
+
+Beim nächsten Projekt werde jeden Tag etwas daran arbeiten, damit ich schnell besser werde oder schnell Vorschritte erziehle.
