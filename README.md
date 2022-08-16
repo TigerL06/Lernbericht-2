@@ -1,4 +1,4 @@
-# Lernbericht-2
+# Lernbericht
 
 ✍️ ggf. LK: Liam Koch
 
