@@ -16,3 +16,6 @@ Ich habe mich mit der Dame im Schach auseinander gesetzt. Ich versuchte die Dame
 |---|---|---|
 |1|4d|5d|
 |2|4c||
+
+##Verifikation
+Der Text erklärt 
